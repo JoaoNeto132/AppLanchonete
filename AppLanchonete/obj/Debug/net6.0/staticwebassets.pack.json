@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Aluno\\source\\repos\\AppLanchonete\\AppLanchonete\\wwwroot\\imagens\\carousel11.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\source\\repos\\AppLanchonete\\AppLanchonete\\wwwroot\\imagens\\carousel12.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\source\\repos\\AppLanchonete\\AppLanchonete\\wwwroot\\imagens\\carousel13.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel13.jpg"
+    },
+    {
       "Id": "C:\\Users\\Aluno\\source\\repos\\AppLanchonete\\AppLanchonete\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
