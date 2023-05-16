@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\source\\repos\\AppLanchonete\\AppLanchonete\\AppLanchonete.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\AppLanchonete\\AppLanchonete\\AppLanchonete.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\source\\repos\\AppLanchonete\\AppLanchonete\\AppLanchonete.csproj": {
+    "C:\\Users\\Aluno\\Documents\\AppLanchonete\\AppLanchonete\\AppLanchonete.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\AppLanchonete\\AppLanchonete\\AppLanchonete.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\AppLanchonete\\AppLanchonete\\AppLanchonete.csproj",
         "projectName": "AppLanchonete",
-        "projectPath": "C:\\Users\\Aluno\\source\\repos\\AppLanchonete\\AppLanchonete\\AppLanchonete.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\AppLanchonete\\AppLanchonete\\AppLanchonete.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\source\\repos\\AppLanchonete\\AppLanchonete\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Documents\\AppLanchonete\\AppLanchonete\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
